@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Tako.
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=T4ko0522" />
 </div>
 
 ### 💻 About Me
