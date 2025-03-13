@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 Japanese Student Junior Full Stack Engineer.  
-I love working with React, TypeScript, and Vercel.  
+I love working with React, TypeScript, and Python.  
 ✅ Currently learning TypeScript for Next.js!  
 
 ### 🛠 Tech Stack
