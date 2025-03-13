@@ -1,5 +1,9 @@
 ## 👋 Hello! I'm Tako.
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=username" />
+</div>
+
 ### 💻 About Me
 Japanese Student Junior Full Stack Engineer.  
 I love working with React, TypeScript, and Python.  
