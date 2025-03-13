@@ -1,8 +1,8 @@
-## 👋 Hello! I'm Tako.
-
-<div align="left">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=T4ko0522" />
 </div>
+
+## 👋 Hello! I'm Tako.
 
 ### 💻 About Me
 Japanese Student Junior Full Stack Engineer.  
