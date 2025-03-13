@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Tako.
 
 ### 💻 About Me
-Japanese Junior Full Stack Engineer.  
+Japanese Student Junior Full Stack Engineer.  
 I love working with React, TypeScript, and Vercel.  
 ✅ Currently learning TypeScript for Next.js!  
 
