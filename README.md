@@ -1,4 +1,5 @@
-## 👋 Hello! I'm Tako.
+## 👋 Hello! I'm Tako.  
+### I'am GameNerd 🤓
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=T4ko0522" />
