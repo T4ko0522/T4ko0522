@@ -32,7 +32,7 @@ I love working with React, TypeScript, and Python.
 ### 🏆 Achievements
 - 🏅 **Fortnite Asia #9**  
 - 😈 **Overwatch2 Master3**  
-- 🌱 **VALORANT Ascendant3**  
+- 👺 **VALORANT Immortal 1**  
 
 ### 📫 Contact
 - 🐦 X (Twitter): [@T4ko_VRC](https://x.com/T4ko_VRC)
