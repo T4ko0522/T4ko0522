@@ -35,4 +35,4 @@ I love working with React, TypeScript, and Python.
 - 👺 **VALORANT Immortal 1**  
 
 ### 📫 Contact
-- 🐦 X (Twitter): [@T4ko_VRC](https://x.com/T4ko_VRC)
+- 🐦 X (Twitter): [@Tako_0522](https://x.com/Tako_0522)
