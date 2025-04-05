@@ -6,7 +6,7 @@
 </div>
 
 ### 💻 About Me
-“Japanese Student | Junior Full Stack Engineer”  
+**Japanese Student | Junior Full Stack Engineer**  
 Passionate about working with React, TypeScript, and Python.  
 ✅ Currently learning TypeScript with Next.js!  
 
