@@ -30,7 +30,7 @@ Passionate about working with React, TypeScript, and Python.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=tokyonight)
 
 ### 🏆 Achievements
-- 🏅 **Fortnite Asia #9**  
+- 🏅 **Fortnite Asia #9, #27**  
 - 😈 **Overwatch2 Master3**  
 - 👺 **VALORANT Immortal 1**  
 
