@@ -7,7 +7,7 @@
 
 ### 💻 About Me
 **Japanese Student | Junior Full Stack Engineer**  
-Passionate about coding withTypeScript, and Python.  
+Passionate about coding with TypeScript, and Python.  
 ✅ Currently learning Kubernetes!  
 
 ### 🛠 Tech Stack
