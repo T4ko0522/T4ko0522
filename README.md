@@ -8,7 +8,7 @@
 ### 💻 About Me
 **Japanese Student | Junior Full Stack Engineer**  
 Passionate about coding with TypeScript, and Python.  
-✅ Currently learning Kubernetes!  
+✅ A successor site to [Connectix](https://github.com/T4ko0522/Connectix) is currently under development!
 
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -24,10 +24,6 @@ Passionate about coding with TypeScript, and Python.
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
-
-### 📊 GitHub Stats
-![Tako's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4ko0522&show_icons=true&include_all_commits=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=tokyonight)
 
 ### 🏆 Achievements
 - **Fortnite Asia #9, #27**  
