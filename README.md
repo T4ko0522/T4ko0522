@@ -8,7 +8,7 @@
 ### 💻 About Me
 **Japanese Student | Junior Full Stack Engineer**  
 Passionate about coding with TypeScript, and Python.  
-✅ A successor site to [Connectix](https://github.com/T4ko0522/Connectix) is currently under development!
+✅ Currently developing a successor to [Connectix](https://github.com/T4ko0522/Connectix) — now in a private repository!
 
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
