@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Tako.  
 ### I am game nerd 🤓
-[See portfolio for details!](https://t4ko.vercel.app/)
+[Look at portfolio for details!](https://t4ko.vercel.app/)
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=T4ko0522" />
 </div>
