@@ -1,14 +1,16 @@
-## 👋 Hello! I'm Tako.  
+## 👋 Hi there!  
 ### I am game nerd 🤓
-[Look at portfolio for details!](https://t4ko.vercel.app/)
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=T4ko0522" />
 </div>
+<a href="https://discord.com/users/608941436393619456"><img src="https://lanyard.cnrad.dev/api/608941436393619456?theme=dark&bg=3072ca" /></a>
+
+[Look at portfolio for details!](https://t4ko.vercel.app/)
 
 ### 💻 About Me
 **Japanese Student | Junior Full Stack Engineer**  
 Passionate about coding with TypeScript, and Python.  
-✅ Currently developing a successor to [Connectix](https://github.com/T4ko0522/Connectix) — now in a private repository!
+✅ Currently developing a [Connectix2](https://github.com/T4ko0522/Connectix2) - now in a private repository!
 
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
