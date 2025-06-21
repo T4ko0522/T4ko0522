@@ -26,10 +26,5 @@ Passionate about coding with TypeScript, and Python.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 
-### 🏆 Achievements
-- **Fortnite Asia #9, #27**  
-- **Overwatch2 Master3**  
-- **VALORANT Immortal 1**  
-
 ### 📫 Contact
 - 🐦 X (Twitter): [@Tako_0522](https://x.com/Tako_0522)
