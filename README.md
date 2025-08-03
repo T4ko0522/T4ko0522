@@ -3,7 +3,7 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=T4ko0522" />
 </div>
-<a href="https://discord.com/users/608941436393619456"><img src="https://lanyard.cnrad.dev/api/608941436393619456?theme=dark&bg=3072ca" /></a>
+<a href="https://discord.gg/JP7uwGDv5T"><img src="https://lanyard.cnrad.dev/api/608941436393619456?theme=dark&bg=3072ca" /></a>
 
 [Look at portfolio for details!](https://t4ko.vercel.app/)
 
