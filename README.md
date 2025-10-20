@@ -9,7 +9,7 @@
 
 ### 💻 About Me
 **Japanese Student | Junior Full Stack Engineer**  
-✅ I'm currently working as an intern at a company called muclase, and I primarily use GitLab!
+✅ I'm currently working as an intern at a company called muclase, and I primarily use GitLab!  
 [🦊 GitLab Account](https://gitlab.com/T4ko0522)
 
 ### 🛠 Tech Stack
