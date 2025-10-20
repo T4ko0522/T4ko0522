@@ -9,8 +9,8 @@
 
 ### 💻 About Me
 **Japanese Student | Junior Full Stack Engineer**  
-Passionate about coding with TypeScript, and Python.  
-✅ Currently developing a [Connectix2](https://github.com/T4ko0522/Connectix2)
+✅ I'm currently working as an intern at a company called muclase, and I primarily use GitLab!
+[🦊 GitLab Account](https://gitlab.com/T4ko0522)
 
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
