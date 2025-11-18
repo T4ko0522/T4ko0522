@@ -27,4 +27,4 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 
 ### 📫 Contact
-- 🐦 X (Twitter): [@Tako_0522](https://x.com/Tako_0522)
+- 🐦 X (Twitter): [@T4ko0522](https://x.com/T4ko0522)
