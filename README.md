@@ -16,8 +16,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ### 🛠 Tech Stack
 
