@@ -10,7 +10,12 @@
 ---
 
 ### 💻 About Me
-
+```javascript
+export const bio = 2025 - 2008 === 17 ? "FPS Gamer" : "Full Stack Engineer";
+/**
+this commit is test
+ */
+```
 ✅ Currently working as an intern at **muclase**, primarily using GitLab!  
 🦊 [GitLab Account](https://gitlab.com/T4ko0522)
 
