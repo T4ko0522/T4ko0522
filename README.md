@@ -11,9 +11,9 @@
 
 ### 💻 About Me
 ```javascript
-export const bio = 2025 - 2008 === 17 ? "FPS Gamer" : "Full Stack Engineer";
+export const aboutMe = new Date().getFullYear() - 2008 === 17 ? "FPS Gamer" : "Full Stack Engineer";
 /**
-this commit is test
+I love Formula 1! 🧡@McLarenF1
  */
 ```
 ✅ Currently working as an intern at **muclase**, primarily using GitLab!  
@@ -46,8 +46,6 @@ this commit is test
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prettier.svg" />
-<img height="32" src="https://raw.githubusercontent.com/T4ko0522/T4ko0522/main/cursor.svg" />
-
 
 ### 📫 Contact
 
