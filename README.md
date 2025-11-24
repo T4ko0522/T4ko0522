@@ -5,7 +5,7 @@
 **Japanese Student | Junior Full Stack Engineer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=T4ko0522&color=blueviolet)](https://github.com/T4ko0522)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://t4ko.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://t4ko.vercel.app/)
 
 ---
 
