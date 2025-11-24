@@ -14,22 +14,10 @@
 ✅ Currently working as an intern at **muclase**, primarily using GitLab!  
 🦊 [GitLab Account](https://gitlab.com/T4ko0522)
 
----
-
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 ### 🛠 Tech Stack
 
@@ -55,7 +43,6 @@
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prettier.svg" />
 <img height="32" src="https://raw.githubusercontent.com/T4ko0522/T4ko0522/main/cursor.svg" />
 
----
 
 ### 📫 Contact
 
