@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi there! I'm T4ko
+## 👋 Hi there! I'm T4ko!
 
 **Japanese Student | Junior Full Stack Engineer**
 
