@@ -14,6 +14,7 @@
 export const aboutMe = new Date().getFullYear() - 2008 === 17 ? "FPS Gamer" : "Full Stack Engineer";
 /**
 I love Formula 1! 🧡@McLarenF1
+"The main thing is to be yourself and not allow people to disturb you and change you." — Ayrton Senna da Silva
  */
 ```
 ✅ Currently working as an intern at **muclase**, primarily using GitLab!  
