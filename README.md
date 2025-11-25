@@ -1,9 +1,9 @@
 <div align="center">
 
 ## 👋 Hi there! I'm T4ko!
-2008年大阪生まれ。現在はmuclaseという会社でエンジニアとしてインターンとして働き、フルスタックエンジニアを目指して学びを深めています。  
 [![Profile Views](https://komarev.com/ghpvc/?username=T4ko0522&color=blueviolet)](https://github.com/T4ko0522)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://t4ko.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://t4ko.vercel.app/)  
+2008年大阪生まれ。現在はmuclaseという会社でエンジニアとしてインターンとして働いております。  
 
 ---
 
