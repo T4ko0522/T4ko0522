@@ -31,7 +31,7 @@
 
 ### 💻 About Me
 ```javascript
-export const aboutMe = new Date().getFullYear() - 2008 >= 22 ? "Japanese Student" : "Full Stack Engineer";
+export const aboutMe = new Date().getFullYear() - 2008 >= 22 ? "CS Student" : "Full Stack Engineer";
 /**
 I love Formula 1! 🧡@McLarenF1
 "The main thing is to be yourself and not allow people to disturb you and change you." — Ayrton Senna da Silva
