@@ -6,23 +6,6 @@
 2008年大阪生まれ。現在はmuclaseという会社でエンジニアとしてインターンとして働いております。  
 
 ---
-
-### 💻 About Me
-```javascript
-export const aboutMe = new Date().getFullYear() - 2008 >= 22 ? "Japanese Student" : "Full Stack Engineer";
-/**
-I love Formula 1! 🧡@McLarenF1
-"The main thing is to be yourself and not allow people to disturb you and change you." — Ayrton Senna da Silva
- */
-```
-✅ Currently working as an intern at **muclase**, primarily using GitLab!  
-🦊 [GitLab Account](https://gitlab.com/T4ko0522)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
 ### 🛠 Tech Stack
 
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" />
@@ -46,10 +29,23 @@ I love Formula 1! 🧡@McLarenF1
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prettier.svg" />
 
-### 📫 Contact
+### 💻 About Me
+```javascript
+export const aboutMe = new Date().getFullYear() - 2008 >= 22 ? "Japanese Student" : "Full Stack Engineer";
+/**
+I love Formula 1! 🧡@McLarenF1
+"The main thing is to be yourself and not allow people to disturb you and change you." — Ayrton Senna da Silva
+ */
+```
+**Email** [tako.work.contact@gmail.com](mailto:tako.work.contact@gmail.com)  
+**GitLab** [@T4ko0522](https://gitlab.com/T4ko0522)  
+**X (Twitter)** [@T4ko0522](https://x.com/T4ko0522)  
+**Qiita** [@T4ko](https://qiita.com/T4ko)  
+**VRChat** [タコです](https://vrchat.com/home/user/usr_1c7593e0-f81d-4c54-8e37-4b36e4d25d88)  
+<a href="https://discord.gg/JP7uwGDv5T"><img src="https://lanyard.cnrad.dev/api/608941436393619456?theme=dark" /></a>
+### 📊 GitHub Stats
 
-📧 **Email**: [tako.work.contact@gmail.com](mailto:tako.work.contact@gmail.com)  
-**X (Twitter)**: [@T4ko0522](https://x.com/T4ko0522)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-<a href="https://discord.gg/JP7uwGDv5T"><img src="https://lanyard.cnrad.dev/api/608941436393619456?theme=dark&bg=3072ca" /></a>
 </div>
