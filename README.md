@@ -1,9 +1,7 @@
 <div align="center">
 
 ## 👋 Hi there! I'm T4ko!
-
-**Japanese Student | Junior Full Stack Engineer**
-
+2008年大阪生まれ。現在はmuclaseという会社でエンジニアとしてインターンとして働き、フルスタックエンジニアを目指して学びを深めています。  
 [![Profile Views](https://komarev.com/ghpvc/?username=T4ko0522&color=blueviolet)](https://github.com/T4ko0522)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://t4ko.vercel.app/)
 
@@ -11,7 +9,7 @@
 
 ### 💻 About Me
 ```javascript
-export const aboutMe = new Date().getFullYear() - 2008 >= 22 ? "FPS Gamer" : "Full Stack Engineer";
+export const aboutMe = new Date().getFullYear() - 2008 >= 22 ? "Japanese Student" : "Full Stack Engineer";
 /**
 I love Formula 1! 🧡@McLarenF1
 "The main thing is to be yourself and not allow people to disturb you and change you." — Ayrton Senna da Silva
