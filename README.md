@@ -37,12 +37,23 @@ I love Formula 1! 🧡@McLarenF1
 "The main thing is to be yourself and not allow people to disturb you and change you." — Ayrton Senna da Silva
  */
 ```
-**Email** [tako.work.contact@gmail.com](mailto:tako.work.contact@gmail.com)  
-**GitLab** [@T4ko0522](https://gitlab.com/T4ko0522)  
-**X (Twitter)** [@T4ko0522](https://x.com/T4ko0522)  
-**Qiita** [@T4ko](https://qiita.com/T4ko)  
-**VRChat** [タコです](https://vrchat.com/home/user/usr_1c7593e0-f81d-4c54-8e37-4b36e4d25d88)  
+<div align="center">
+<table>
+<tr>
+<td valign="middle">
 <a href="https://discord.gg/JP7uwGDv5T"><img src="https://lanyard.cnrad.dev/api/608941436393619456?theme=dark" /></a>
+</td>
+<td valign="middle" align="center">
+<strong>Email</strong> <a href="mailto:tako.work.contact@gmail.com">tako.work.contact@gmail.com</a><br>
+<strong>GitLab</strong> <a href="https://gitlab.com/T4ko0522">@T4ko0522</a><br>
+<strong>X (Twitter)</strong> <a href="https://x.com/T4ko0522">@T4ko0522</a><br>
+<strong>Qiita</strong> <a href="https://qiita.com/T4ko">@T4ko</a><br>
+<strong>VRChat</strong> <a href="https://vrchat.com/home/user/usr_1c7593e0-f81d-4c54-8e37-4b36e4d25d88">タコです</a>
+</td>
+</tr>
+</table>
+</div>
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
