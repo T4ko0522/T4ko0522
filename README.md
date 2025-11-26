@@ -56,7 +56,7 @@ I love Formula 1! 🧡@McLarenF1
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-ilybau8xe-t4kos-projects.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats-ilybau8xe-t4kos-projects.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats-red-seven-59.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats-red-seven-59.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
