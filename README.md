@@ -7,7 +7,6 @@
 
 ---
 ### 🛠 Tech Stack
-
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" />
@@ -56,7 +55,21 @@ I love Formula 1! 🧡@McLarenF1
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-red-seven-59.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&)
-![Top Languages](https://github-readme-stats-red-seven-59.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)
+<p>
+  <a href="https://github.com/T4ko0522">
+    <img
+      align="center"
+      height="170px"
+      src="https://github-readme-stats-red-seven-59.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true"
+    />
+  </a>
+  <a href="https://github.com/T4ko0522">
+    <img
+      align="center"
+      height="170px"
+      src="https://github-readme-stats-red-seven-59.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"
+    />
+  </a>
+</p>
 
 </div>
