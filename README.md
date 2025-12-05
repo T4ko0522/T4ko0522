@@ -7,26 +7,7 @@
 
 ---
 ### 🛠 Tech Stack
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vuedotjs.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/astro.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/remix.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/deno.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prettier.svg" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,bash,powershell,anaconda,react,next,vue,astro,remix,tailwind,materialui,angular,nodejs,deno,express,electron,postgres,docker,gcp,vercel,ubuntu,linux,windows,git,github,gitlab,postman,vscode" />
 
 ### 💻 About Me
 ```javascript
