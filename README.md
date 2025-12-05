@@ -7,7 +7,7 @@
 
 ---
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=js,ts,python,bash,powershell,anaconda,react,next,vue,astro,remix,tailwind,materialui,angular,nodejs,deno,express,electron,postgres,docker,gcp,vercel,ubuntu,linux,windows,git,github,gitlab,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,bash,powershell,react,next,vue,astro,remix,tailwind,materialui,angular,nodejs,deno,express,electron,postgres,mysql,docker,gcp,vercel,ubuntu,linux,windows,git,github,gitlab,postman,vscode" />
 
 ### 💻 About Me
 ```javascript
