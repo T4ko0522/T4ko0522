@@ -6,6 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=T4ko0522&color=blueviolet)](https://github.com/T4ko0522)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://t4ko.vercel.app/)  
 2008年大阪生まれ。現在はmuclaseという会社でエンジニアとしてインターンで働いております。  
+Contribution Graphが黒い時はインフラ弄ってるか、検証、もしくは休息中です😴
 
 ---
 ### 🛠 Tech Stack
