@@ -33,14 +33,14 @@ I love Formula 1! 🧡@McLarenF1
     <img
       align="center"
       height="170px"
-      src="https://github-readme-stats-red-seven-59.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true"
+      src="https://github-readme-stats-red-seven-59.vercel.app/api?username=T4ko0522&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&v=2"
     />
   </a>
   <a href="https://github.com/T4ko0522">
     <img
       align="center"
       height="170px"
-      src="https://github-readme-stats-red-seven-59.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats-red-seven-59.vercel.app/api/top-langs/?username=T4ko0522&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&v=2"
     />
   </a>
 </p>
