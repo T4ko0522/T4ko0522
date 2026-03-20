@@ -24,9 +24,6 @@ I love Formula 1! 🧡@McLarenF1
  */
 ```
 
-### 📆 GitLab + GitHub Contributions
-[![Contributions Graph](https://contributions-status-server.vercel.app/api/contributions?gitlab=T4ko0522&github=T4ko0522&theme=pink)](https://github.com/T4ko0522/contributions-status)
-
 ### 📊 GitHub Stats
 <p>
   <a href="https://github.com/T4ko0522">
