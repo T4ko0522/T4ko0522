@@ -2,13 +2,14 @@
 
 <h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> Hi there! I'm T4ko0522! </h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=T4ko0522&color=blueviolet)](https://github.com/T4ko0522)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://t4ko.vercel.app/)  
+[![Profile Views](https://komarev.com/ghpvc/?username=T4ko0522)](https://github.com/T4ko0522)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6600)](https://t4ko.vercel.app/)  
+
 2008年大阪生まれ。現在はmuclaseという会社でエンジニアとしてインターンで働いております。  
 Contribution Graphが黒い時はインフラ弄ってるか、検証、もしくは休息中です😴
 
----
 ### 🛠 Tech Stack
+
 <img src="https://skillicons.dev/icons?i=js,ts,go,python,lua,bash,powershell" />  
 <br/>
 <img src="https://skillicons.dev/icons?i=react,vue,astro,next,nuxt,remix,tailwind,materialui,express,nest,vite,vitest,nodejs,deno,electron" />
@@ -16,15 +17,7 @@ Contribution Graphが黒い時はインフラ弄ってるか、検証、もし�
 <img src="https://skillicons.dev/icons?i=linux,gcp,vercel,docker,kubernetes,postgres,mysql" />
 
 ### 💻 About Me
-```javascript
-export const aboutMe = new Date().getFullYear() - 2008 >= 22 ? "CS Student" : "Full Stack Engineer";
-/**
-I love Formula 1! 🧡@McLarenF1
-"The main thing is to be yourself and not allow people to disturb you and change you." — Ayrton Senna da Silva
- */
-```
 
-### 📊 GitHub Stats
 <p>
   <a href="https://github.com/T4ko0522">
     <img
@@ -41,4 +34,44 @@ I love Formula 1! 🧡@McLarenF1
     />
   </a>
 </p>
+
+```javascript
+export const aboutMe = new Date().getFullYear() - 2008 >= 22 ? "CS Student" : "Full Stack Engineer";
+/**
+I love McLaren Formula 1 Team! 🧡@McLarenF1
+"The main thing is to be yourself and not allow people to disturb you and change you." — Ayrton Senna da Silva
+
+                                                                 .::-=++**##%%%%%%%%%%##*+=-:.
+                                                         .:-=*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*-
+                                                   :-=*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-
+                                             .-=*%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-
+                                        .-+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
+                                   .-+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%
+                               :=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*
+                          .-+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:
+                      .-+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+
+                  .-+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*
+               -+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+
+           :=#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-
+       .-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#.
+    :=#%@@@@@@@@@@@@@@@@@@@@%%##***+++++++++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=
+ :+%@@@@@@@@@@@@%%#*+=--:..                       .-+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.
+#@@@@@@%%#*+-:..                                      .=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:
+:++=-:.                                                  +@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-
+                                                          *@@@@@@@@@@@@@@@@@@@@@@@@@%=
+                                                          -%@@@@@@@@@@@@@@@@@@@@@@%=
+                                                          :%@@@@@@@@@@@@@@@@@@@@#-
+                                                          =@@@@@@@@@@@@@@@@@@@*:
+                                                          %@@@@@@@@@@@@@@@@%+.
+                                                         =@@@@@@@@@@@@@@@%=
+                                                        :%@@@@@@@@@@@@%*-
+                                                       .%@@@@@@@@@@@%=.
+                                                      .%@@@@@@@@@%*-
+                                                     :%@@@@@@@%#=.
+                                                    -%@@@@@@%+:
+                                                   *@@@@@%*:
+                                                  %@@@%*-
+                                                  -**-
+ */
+```
 </div>
