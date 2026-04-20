@@ -9,13 +9,12 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://x.com/_A1m3r"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/t4ko0522/t4ko0522/main/x.png&w=160&h=160&fit=cover&mask=circle" width="72" alt="X" /></a>
-&nbsp;
-<a href="https://gitlab.com/T4ko0522"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/t4ko0522/t4ko0522/main/gitlab.png&w=160&h=160&fit=cover&mask=circle" width="72" alt="GitLab" /></a>
-&nbsp;
-<a href="https://qiita.com/T4ko"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/t4ko0522/t4ko0522/main/qiita.webp&w=160&h=160&fit=cover&mask=circle" width="72" alt="Qiita" /></a>
-&nbsp;
-<a href="https://t4ko.vercel.app/"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/108514947%3Fv=4&w=160&h=160&mask=circle" width="72" alt="Portfolio" /></a>
+<table>
+<tr><td><a href="https://x.com/_A1m3r"><img src="https://raw.githubusercontent.com/T4ko0522/T4ko0522/main/x.png" width="32" alt="X" /></a></td><td><a href="https://x.com/_A1m3r">@_A1m3r</a></td></tr>
+<tr><td><a href="https://gitlab.com/T4ko0522"><img src="https://raw.githubusercontent.com/T4ko0522/T4ko0522/main/gitlab.png" width="32" alt="GitLab" /></a></td><td><a href="https://gitlab.com/T4ko0522">@T4ko0522</a></td></tr>
+<tr><td><a href="https://qiita.com/T4ko"><img src="https://raw.githubusercontent.com/T4ko0522/T4ko0522/main/qiita.webp" width="32" alt="Qiita" /></a></td><td><a href="https://qiita.com/T4ko">@T4ko</a></td></tr>
+<tr><td><a href="https://t4ko.vercel.app/"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/108514947%3Fv=4&w=80&h=80&mask=circle" width="32" alt="Portfolio" /></a></td><td><a href="https://t4ko.vercel.app/">t4ko.vercel.app</a></td></tr>
+</table>
 
 </td>
 </tr>
