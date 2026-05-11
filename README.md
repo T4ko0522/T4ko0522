@@ -1,6 +1,6 @@
 <p>
   <img src="https://custom-readme.vercel.app/api/profile-views?label=Profile+views&theme=dark&id=t4ko0522&format=svg" alt="profile-views" />
-  <a href="https://t4ko.vercel.app/"><img src="https://custom-readme.vercel.app/api/button?theme=dark&label=Portfolio&icon=https%3A%2F%2Ft4ko.vercel.app%2Ffavicon.ico&href=https%3A%2F%2Ft4ko.vercel.app%2F&format=svg" alt="Portfolio" /></a>
+  <a href="https://t4ko.vercel.app/"><img src="https://custom-readme.vercel.app/api/button?theme=dark&label=Portfolio&icon=https%3A%2F%2Ft4ko.vercel.app%2Ficon.png&href=https%3A%2F%2Ft4ko.vercel.app%2F&format=svg" alt="Portfolio" /></a>
   <a href="https://x.com/_A1m3r"><img src="https://custom-readme.vercel.app/api/button?theme=dark&label=%40_A1m3r&icon=https%3A%2F%2Fraw.githubusercontent.com%2FT4ko0522%2FT4ko0522%2Frefs%2Fheads%2Fmain%2Fx.png&href=https%3A%2F%2Fx.com%2F_A1m3r&format=svg" alt="@_A1m3r" /></a>
 </p>
 
